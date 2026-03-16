@@ -1,6 +1,14 @@
-# Python-Practice-using-Google-Colab
-This notebook contains Python practice tasks completed during my Data Science internship. The tasks include loops, list operations, reversing numbers, counting digits, and solving coding problems.
+# Python Practice Notebook
+This project contains Python practice tasks completed using Google Colab.
 
-# Tools Used-> 
-Python --> Histogram, matplot, seaboarn, pandas.
-Google Colab
+## Topics Covered
+- Loops
+- Range function
+- List operations
+- Reverse number
+- Count digits
+- Unique digits
+
+## Tools
+- Python
+- Google Colab
